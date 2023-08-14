@@ -1,0 +1,39 @@
+template<typename T>
+inline  ll toLong(T a)
+{
+    ll res;
+    istringstream os(a);
+    os>>res;
+    return res;
+}
+freopen("marks_sheet.txt","r",stdin);
+getline(cin,b);
+    stringstream ss(b);
+    int co=1;
+    while(ss>>c)
+    {
+        if(co>2 and co%2)
+        {
+            int m=toLong(c);
+            cr.push_back(m);
+            sum+=m;
+        }
+        co++;
+    }
+    bool f=0;
+    while(getline(cin,b))
+    {
+        stringstream ss1(b);
+        while(ss1>>a)
+        {
+            if(a==id)
+            {
+                f=1;
+                continue;
+            }
+            if(f)
+                mr.push_back(toLong(a));
+        }
+        if(f)
+            break;
+}
