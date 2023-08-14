@@ -195,7 +195,7 @@ void print(int n)
     if(n==1)
     {
         printf("\t\t\t Welcome to Mess bill Calculator v2.0.1.8-0.2\n");
-        printf("                                                                      by Moursalin and Hasib\n\n");
+        printf("                                                                      by Faruk and *****\n\n");
     }
     if(n==2)
     {
