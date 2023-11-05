@@ -1,0 +1,56 @@
+Saturday
+Electric Circuit
+Prof. Dr. Mohammad Shahin Uddin
+8 0
+Saturday
+Data Structure
+Mr. Bikash Kumar Paul
+10 0
+Saturday
+Discrete Mathematics
+Prof. Dr. Sajjad Wahed
+12 0
+Sunday
+Programming with C++
+Mr. S.M. Shamim
+8 0
+Sunday
+Discrete Mathematics
+Prof. Dr. Sajjad Wahed
+10 0
+Sunday
+Programming with C++ Lab
+Mr. S.M. Shamim
+14 0
+Monday
+Electric Circuit
+Prof. Dr. Mohammad Shahin Uddin
+12 0
+Monday
+Programming with C++
+Mr. S.M. Shamim
+16 0
+Tuesday
+Electric Circuit Lab
+Prof. Dr. Mohammad Shahin Uddin
+8 0
+Tuesday
+Data Structure Lab
+Mr. Bikash Kumar Paul
+10 0
+Wednesday
+Data Structure
+Mr. Bikash Kumar Paul
+12 0
+Friday
+OOP
+Bikash
+10 0
+Friday
+Data Structure
+Dr. Kaikobad
+3 0
+Sunday
+AlgorithmDesign
+Mashfiq Sir
+9 0
